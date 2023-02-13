@@ -1,0 +1,10 @@
+
+
+Download mnist database at www.di.ens.fr/~lelarge/MNIST.tar.gz
+
+must install following to run code:
+  python(3.7-3.9)
+  pytorch, torchvision, torchaudio
+  numpy
+  matplotlib.pyplot
+  tkinter
